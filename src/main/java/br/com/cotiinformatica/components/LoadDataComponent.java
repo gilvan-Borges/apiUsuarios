@@ -73,7 +73,7 @@ public class LoadDataComponent implements ApplicationRunner {
 		perfilOperador.setNome("OPERADOR");
 
 		var permissoesOperador = new ArrayList<Permissao>();
-		permissoesOperador.add(permissaoConsulta);
+		permissoesOperador.add(permissaoConsulta); 
 
 		perfilOperador.setPermissoes(permissoesOperador);
 
