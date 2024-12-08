@@ -82,8 +82,8 @@ cd apiUsuarios
 ./mvnw spring-boot:run
 
 3. Acesse a documentação da API:
--- Swagger UI: http://localhost:8080/swagger-ui.html
--- OpenAPI: http://localhost:8080/v3/api-docs
+ - Swagger UI: http://localhost:8080/swagger-ui.html
+ - OpenAPI: http://localhost:8080/v3/api-docs
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
